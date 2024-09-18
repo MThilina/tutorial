@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.*   # in case you have different env files like .env.production, .env.development, etc.
+
+# Coverage directory used by testing tools like jest
+coverage/
+
+# Error reporting
+error-reporting/
+
+# IDE specific files (Optional, depending on the IDE you're using)
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+
+# Temporary files
+tmp/
+temp/
